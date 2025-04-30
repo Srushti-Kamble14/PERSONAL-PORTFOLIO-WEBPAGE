@@ -71,4 +71,8 @@ portfolio/ │ ├── index.html # Main HTML page with sections ├── sty
 <br>
 <br>
 
-
+![Image](https://github.com/user-attachments/assets/5f3c10d4-08a9-4a14-8eec-f20433db7050)
+![Image](https://github.com/user-attachments/assets/0512b7aa-dd48-482f-8e26-30ada04d2030)
+![Image](https://github.com/user-attachments/assets/1c8c6013-7d71-44ae-b3bb-112e246f6b6d)
+![Image](https://github.com/user-attachments/assets/60253ed1-0017-4068-b379-83087a82e79e)
+![Image](https://github.com/user-attachments/assets/8c5ccb90-8e85-4b41-965a-6c08a1e30718)
