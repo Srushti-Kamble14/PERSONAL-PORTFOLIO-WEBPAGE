@@ -63,7 +63,7 @@ portfolio/ │ ├── index.html # Main HTML page with sections ├── sty
 🔗 Contact
 <br>
 <br>
-• Email: [kamblesrushti127@gmail.com](mailto:kamblesrushti127@gmail.com)
+• Email: [kamblesrushti127@gmail.com](mailto:kamblesrushti127@gmail.com) <br>
 • LinkedIn: [linkedin.com/in/srushti-kamble-2932192b2](www.linkedin.com/in/srushti-kamble-2932192b2)
 
 <hr>
